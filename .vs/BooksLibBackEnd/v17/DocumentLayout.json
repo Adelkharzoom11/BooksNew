@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BooksLibBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|e:\\bookslibbackend\\bookslibbackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|solutionrelative:bookslibbackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1948C9D-FFC1-42E0-A3FE-625518A98AA0}|BooksLib.Data\\BooksLib.Data.csproj|e:\\bookslibbackend\\bookslib.data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1948C9D-FFC1-42E0-A3FE-625518A98AA0}|BooksLib.Data\\BooksLib.Data.csproj|solutionrelative:bookslib.data\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1948C9D-FFC1-42E0-A3FE-625518A98AA0}|BooksLib.Data\\BooksLib.Data.csproj|e:\\bookslibbackend\\bookslib.data\\services\\contextseedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1948C9D-FFC1-42E0-A3FE-625518A98AA0}|BooksLib.Data\\BooksLib.Data.csproj|solutionrelative:bookslib.data\\services\\contextseedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|e:\\bookslibbackend\\bookslibbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|solutionrelative:bookslibbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|e:\\bookslibbackend\\bookslibbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA114C86-45FE-4F77-B040-E7D02ABAD4D2}|BooksLibBackEnd\\BooksLibBackEnd.csproj|solutionrelative:bookslibbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BooksLibBackEnd\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BooksLibBackEnd\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T19:52:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextSeedService.cs",
+              "DocumentMoniker": "E:\\BooksLibBackEnd\\BooksLib.Data\\Services\\ContextSeedService.cs",
+              "RelativeDocumentMoniker": "BooksLib.Data\\Services\\ContextSeedService.cs",
+              "ToolTip": "E:\\BooksLibBackEnd\\BooksLib.Data\\Services\\ContextSeedService.cs",
+              "RelativeToolTip": "BooksLib.Data\\Services\\ContextSeedService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:11:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "BooksLibBackEnd\\appsettings.json",
+              "ToolTip": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\appsettings.json",
+              "RelativeToolTip": "BooksLibBackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T12:58:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BooksLibBackEnd\\Program.cs",
+              "ToolTip": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\Program.cs",
+              "RelativeToolTip": "BooksLibBackEnd\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:56:58.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\BooksLibBackEnd\\BooksLib.Data\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooksLib.Data\\Services\\BookService.cs",
+              "ToolTip": "E:\\BooksLibBackEnd\\BooksLib.Data\\Services\\BookService.cs",
+              "RelativeToolTip": "BooksLib.Data\\Services\\BookService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwDIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:33:46.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Data.deps.json
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Data.runtimeconfig.json
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Data.dll
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Data.pdb
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Domain.dll
+E:\BooksLibBackEnd\BooksLib.Data\bin\Debug\net8.0\BooksLib.Domain.pdb
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.csproj.AssemblyReference.cache
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.AssemblyInfoInputs.cache
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.AssemblyInfo.cs
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.csproj.CoreCompileInputs.cache
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.D571B546.Up2Date
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.dll
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\refint\BooksLib.Data.dll
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.pdb
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\BooksLib.Data.genruntimeconfig.cache
+E:\BooksLibBackEnd\BooksLib.Data\obj\Debug\net8.0\ref\BooksLib.Data.dll

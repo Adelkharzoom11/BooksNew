@@ -1,0 +1,12 @@
+E:\BooksLibBackEnd\BooksLib.Domain\bin\Debug\net8.0\BooksLib.Domain.deps.json
+E:\BooksLibBackEnd\BooksLib.Domain\bin\Debug\net8.0\BooksLib.Domain.dll
+E:\BooksLibBackEnd\BooksLib.Domain\bin\Debug\net8.0\BooksLib.Domain.pdb
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.csproj.AssemblyReference.cache
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.AssemblyInfoInputs.cache
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.AssemblyInfo.cs
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.csproj.CoreCompileInputs.cache
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.dll
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\refint\BooksLib.Domain.dll
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\BooksLib.Domain.pdb
+E:\BooksLibBackEnd\BooksLib.Domain\obj\Debug\net8.0\ref\BooksLib.Domain.dll

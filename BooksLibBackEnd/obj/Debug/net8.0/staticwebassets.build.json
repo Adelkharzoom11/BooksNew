@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Zyq5zDhVZi6pA/Y8rnn70WEp0RUM7qYdRpIfndBFHLo=",
+  "Source": "BooksLibBackEnd",
+  "BasePath": "_content/BooksLibBackEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BooksLibBackEnd\\wwwroot",
+      "Source": "BooksLibBackEnd",
+      "ContentRoot": "E:\\BooksLibBackEnd\\BooksLibBackEnd\\wwwroot\\",
+      "BasePath": "_content/BooksLibBackEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
