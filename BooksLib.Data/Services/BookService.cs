@@ -126,7 +126,7 @@ namespace BooksLib.Data.Services
 
         public Task<BookResponseDto<BookDto>> UpdateBookAsync(string id, AddUpdateBook addUpdateBook)
         {
-            
+            throw new NotImplementedException();
         }
 
 
